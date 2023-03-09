@@ -1,0 +1,30 @@
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.csproj.AssemblyReference.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.AssemblyInfoInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.AssemblyInfo.cs
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.csproj.CoreCompileInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\bin\Debug\net6.0\FindMatrixElement.exe
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\bin\Debug\net6.0\FindMatrixElement.deps.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\bin\Debug\net6.0\FindMatrixElement.runtimeconfig.json
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\bin\Debug\net6.0\FindMatrixElement.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\bin\Debug\net6.0\FindMatrixElement.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\refint\FindMatrixElement.dll
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.pdb
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\FindMatrixElement.genruntimeconfig.cache
+C:\Users\irish\OneDrive\Рабочий стол\ДЗ знакомство с языками программирования\FindMatrixElement\obj\Debug\net6.0\ref\FindMatrixElement.dll
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.csproj.AssemblyReference.cache
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.AssemblyInfoInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.AssemblyInfo.cs
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.csproj.CoreCompileInputs.cache
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.dll
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\refint\FindMatrixElement.dll
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.pdb
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\bin\Debug\net6.0\FindMatrixElement.exe
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\bin\Debug\net6.0\FindMatrixElement.deps.json
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\bin\Debug\net6.0\FindMatrixElement.runtimeconfig.json
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\bin\Debug\net6.0\FindMatrixElement.dll
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\bin\Debug\net6.0\FindMatrixElement.pdb
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\FindMatrixElement.genruntimeconfig.cache
+C:\Users\irish\OneDrive\Рабочий стол\Контрольная работа\RemakeMatrixWhithElementLengthMax3\obj\Debug\net6.0\ref\FindMatrixElement.dll
